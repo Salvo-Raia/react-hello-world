@@ -1,16 +1,63 @@
-# React + Vite
+![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎓 Exercise 32/50 - React Hello World
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+| Property | Details |
+|:--|:--|
+| Repository | `react-hello-world` |
+| Category | Boolean Tech Academy |
+| Type | Exercise |
+| Exercise | 32/50 |
 
-## React Compiler
+## 🎯 Assignment
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Create a new **React project using Vite**.
 
-## Expanding the ESLint configuration
+Refer to the course slides to review and follow the installation steps covered during the lesson.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Once the project has been created:
+
+1. Set up a new React application.
+2. Start the development server from the terminal.
+3. Make sure the application runs correctly.
+4. Push the entire project to your GitHub repository.
+
+### ⌨️ Remapping - Backtick and Tilde
+
+If needed, use the following guide to configure the keyboard shortcuts for the backtick (`` ` ``) and tilde (`~`) characters on Windows:
+
+[Remapping Backtick and Tilde Keyboard Shortcuts on Windows](https://lancellotti-marco.medium.com/remapping-backtick-and-tilde-keyboard-shortcuts-on-windows-e2923e455817)
+
+## ⭐ Bonus - Reorganize the Project Structure
+
+Reorganize the default Vite scaffolding to achieve the following folder structure inside `src`, making sure the application still compiles without errors:
+
+```text
+src/
+│   App.jsx
+│   main.jsx
+└───assets/
+    ├───css/
+    │       index.css
+    └───img/
+            react.svg
+```
+
+## 🛠️ Technologies
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+## 💡 What I Learned
+
+- Setting up a React project using Vite.
+- Understanding the initial React project structure.
+- Running a development server from the terminal.
+- Managing project files and folders.
+- Organizing assets and stylesheets.
+- Using Git to version and publish a project on GitHub.
+
+## ©️ Credits
+
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
