@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 32/50 - React Hello World
+# 🎓 Exercise 32/50: React Hello World
+
+Setting up a React application with Vite, running the development server, and organizing the initial project structure, including assets and stylesheets.
 
 ## 📌 Project Overview
 
@@ -24,13 +26,13 @@ Once the project has been created:
 3. Make sure the application runs correctly.
 4. Push the entire project to your GitHub repository.
 
-### ⌨️ Remapping - Backtick and Tilde
+### 🔎 Notes
 
-If needed, use the following guide to configure the keyboard shortcuts for the backtick (`` ` ``) and tilde (`~`) characters on Windows:
+If needed, use the following guide to configure the keyboard shortcuts for the backtick (`` ` ``) and tilde (`~`) characters on Windows.
 
 [Remapping Backtick and Tilde Keyboard Shortcuts on Windows](https://lancellotti-marco.medium.com/remapping-backtick-and-tilde-keyboard-shortcuts-on-windows-e2923e455817)
 
-## ⭐ Bonus - Reorganize the Project Structure
+### ⭐ Bonus - Reorganize the Project Structure
 
 Reorganize the default Vite scaffolding to achieve the following folder structure inside `src`, making sure the application still compiles without errors:
 
@@ -60,4 +62,4 @@ src/
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
