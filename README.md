@@ -8,7 +8,7 @@ Setting up a React application with Vite, running the development server, and or
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| react-hello-world | React Hello World | Exercise | React & Vite | 32/50 |
+| react-hello-world | React Hello World | Exercise | React, Vite | 32/50 |
 
 ## Assignment
 
@@ -18,7 +18,7 @@ Refer to the course slides to review and follow the installation steps covered d
 
 Once the project has been created:
 
-1. Set up a new React application.
+1. Install the required dependencies.
 2. Start the development server from the terminal.
 3. Make sure the application runs correctly.
 4. Push the entire project to your GitHub repository.
