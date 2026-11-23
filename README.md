@@ -8,7 +8,7 @@ Setting up a React application with Vite, running the development server, and or
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| react-hello-world | React Hello World | Exercise | React, Vite & Project setup | 32/50 |
+| react-hello-world | React Hello World | Exercise | React & Vite | 32/50 |
 
 ## Assignment
 
