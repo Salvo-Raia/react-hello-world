@@ -42,7 +42,7 @@ src/
 
 If needed, use the following guide to configure the keyboard shortcuts for the backtick (`` ` ``) and tilde (`~`) characters on Windows.
 
-[Remapping Backtick and Tilde Keyboard Shortcuts on Windows](https://lancellotti-marco.medium.com/remapping-backtick-and-tilde-keyboard-shortcuts-on-windows-e2923e455817)
+[Remapping backtick and tilde keyboard shortcuts on Windows](https://lancellotti-marco.medium.com/remapping-backtick-and-tilde-keyboard-shortcuts-on-windows-e2923e455817)
 
 ## Technologies
 
