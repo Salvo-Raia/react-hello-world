@@ -25,7 +25,7 @@ Once the project has been created:
 
 #### Bonus challenge
 
-Reorganize the default Vite scaffolding to achieve the following folder structure inside `src`, making sure the application still compiles without errors:
+Reorganize the default Vite scaffolding to achieve the following folder structure inside `src`, making sure the application still compiles without errors.
 
 ```text
 src/
@@ -44,10 +44,10 @@ If needed, use the following guide to configure the keyboard shortcuts for the b
 
 [Remapping Backtick and Tilde Keyboard Shortcuts on Windows](https://lancellotti-marco.medium.com/remapping-backtick-and-tilde-keyboard-shortcuts-on-windows-e2923e455817)
 
-
 ## Technologies
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ## What I learned
 
